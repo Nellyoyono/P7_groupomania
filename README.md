@@ -1,7 +1,7 @@
 # P7_groupomania
 
 
-Télécharger le repo :
+Télécharger le repo :https://github.com/Nellyoyono/P7_groupomania.git
 
 git clone 
 
